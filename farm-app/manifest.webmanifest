@@ -1,0 +1,11 @@
+{
+  "name": "FarmHub",
+  "short_name": "FarmHub",
+  "description": "Offline-first farm management for fields, tasks, weather, inventory, and finances.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0ea5e9",
+  "theme_color": "#0ea5e9",
+  "icons": []
+}
